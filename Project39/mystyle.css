@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #DD424C;
+}
+
+.box1{
+   
+    width: 785px;
+    height: 945px;
+    background-color: #171717;
+}
+
+.text1{
+    width: 300px;
+    height: 130px;
+    margin-top: 280px;
+    margin-left: 180px;
+}
+
+#littext{
+    color: #B0B0B0;
+    font-size: 39px;
+    margin-top: 50px;
+    margin-left: 180px; 
+    font-family: 'code-7x5-regular', sans-serif;
+}
+
+h1{
+    color: #FFFFFF;
+    margin-left: 980px;
+    margin-top: -480px;
+}
